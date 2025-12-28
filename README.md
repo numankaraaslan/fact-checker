@@ -1,5 +1,3 @@
-source venv/bin/activate
-
 # Fact Check Service
 python3 -m venv venv
 
